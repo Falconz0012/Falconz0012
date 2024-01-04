@@ -8,6 +8,10 @@
 <div id="header" align="center">
   <img src="https://i.imgur.com/zscF3LM.png" />
 </div>
+<ul>
+ <li>Feel free to contact me at:  tomasfalcao.26@gmail.com </li> 
+ <li>Reach out to me on<a href="https://www.linkedin.com/in/tom%C3%A1s-falc%C3%A3o-82b595274/"> LinkedIn </a>  </li>
+</ul>
 <!--
 **Falconz0012/Falconz0012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
