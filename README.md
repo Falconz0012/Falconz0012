@@ -6,7 +6,7 @@
 </h2>
 
 <div id="header" align="center">
-  <img src="https://i.imgur.com/zscF3LM.png" width="100"/>
+  <img src="https://i.imgur.com/zscF3LM.png" />
 </div>
 <!--
 **Falconz0012/Falconz0012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
