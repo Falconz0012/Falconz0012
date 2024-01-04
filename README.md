@@ -1,9 +1,12 @@
 <h1>
- Dev in the making  🚀
+ Welcome to my corner of GitHub !   🚀
 </h1>
+<h2>
+  My name is Tomás and I'm just a tech enthusiast who enjoys learning a bit about everything as of now ... 
+</h2>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://imgur.com/zscF3LM" width="100"/>
 </div>
 <!--
 **Falconz0012/Falconz0012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
