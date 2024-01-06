@@ -6,7 +6,6 @@
 </h2>
 
 <div id="header" align="center">
-  <img src="https://i.imgur.com/zscF3LM.png" />
 </div>
 <ul>
  <li>Feel free to contact me at:  tomasfalcao.26@gmail.com </li> 
