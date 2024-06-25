@@ -2,7 +2,7 @@
  Welcome to my corner of GitHub !   🚀
 </h1>
 <h2>
-  My name is Tomás and I'm just a tech enthusiast who enjoys learning a bit about everything as of now ... 
+  My name is Tomás and I'm just a tech enthusiast who enjoys learning a bit of everything
 </h2>
 
 <div id="header" align="center">
